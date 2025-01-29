@@ -1,0 +1,25 @@
+{
+  "analytics": {
+    "title": "Elemzések",
+    "lastWeek": "Elmúlt hét",
+    "lastMonth": "Elmúlt hónap",
+    "lastQuarter": "Elmúlt negyedév",
+    "lastYear": "Elmúlt év",
+    "refresh": "Adatok frissítése",
+    "caseTimeline": "Ügyek időrendi áttekintése",
+    "casesByType": "Ügyek típus szerint",
+    "processingTimes": "Feldolgozási idők",
+    "newCases": "Új ügyek",
+    "completedCases": "Lezárt ügyek",
+    "days": "nap"
+  },
+  "notifications": {
+    "title": "Értesítések",
+    "view": "Értesítések megtekintése",
+    "markAllRead": "Összes olvasottnak jelölése",
+    "clearAll": "Összes törlése",
+    "markRead": "Olvasottnak jelölés",
+    "remove": "Eltávolítás",
+    "empty": "Nincsenek értesítések"
+  }
+}
